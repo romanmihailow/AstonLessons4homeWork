@@ -270,7 +270,6 @@ public class Main {
 }
 
 //#Task14
-
 public class Main {
     public static int[] getArray(int len, int initialValue) {
         int[] array = new int[len];
@@ -286,3 +285,9 @@ public class Main {
 
     public static void main(String[] args) {
         int[] array = getArray(30, 7);
+    }
+}
+
+
+//#End
+

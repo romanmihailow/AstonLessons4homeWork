@@ -285,3 +285,9 @@ System.out.print(array[i]);
 
     public static void main(String[] args) {
         int[] array = getArray(30, 7);
+    }
+}
+
+
+//#End
+
