@@ -272,6 +272,7 @@ public class Main {
 //#Task14
 public class Main {
     public static int[] getArray(int len, int initialValue) {
+        int a =1;
         int[] array = new int[len];
         for (int i = 0; i < len - 1; i++) {
             array[i] = initialValue;
@@ -281,7 +282,6 @@ public class Main {
         return array;
 
     }
-
 
     public static void main(String[] args) {
         int[] array = getArray(30, 7);
