@@ -270,6 +270,7 @@ public class Main {
 }
 
 //#Task14
+
 public class Main {
     public static int[] getArray(int len, int initialValue) {
         int[] array = new int[len];
